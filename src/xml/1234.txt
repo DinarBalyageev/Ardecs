@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<drivers>
+    <driver>
+        <firstName>Петров</firstName>
+        <name>Петр</name>
+        <rate>Фиксированная</rate>
+        <salary>29000.0</salary>
+        <secondName>Петрович</secondName>
+    </driver>
+    <driver>
+        <firstName>Иванов</firstName>
+        <name>Иван</name>
+        <rate>Почасовая</rate>
+        <salary>14976.0</salary>
+        <secondName>Иванович</secondName>
+    </driver>
+    <driver>
+        <firstName>Абрамов</firstName>
+        <name>Абрам</name>
+        <rate>Почасовая</rate>
+        <salary>11648.0</salary>
+        <secondName>Абрамович</secondName>
+    </driver>
+    <driver>
+        <firstName>234</firstName>
+        <name>234</name>
+        <rate>Фиксированная</rate>
+        <salary>123.0</salary>
+        <secondName>234</secondName>
+    </driver>
+</drivers>
